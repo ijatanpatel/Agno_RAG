@@ -1,0 +1,24 @@
+{
+  "doc-e1ad39d811ae3cc4a74c286864288b1c": {
+    "doc_id": "doc-e1ad39d811ae3cc4a74c286864288b1c",
+    "file_path": "C:\\Udemy\\agno_rag\\data\\ui_uploads\\20260306_195452_407403_Jatan_Resume_updated.pdf",
+    "original_name": "Jatan_Resume_updated.pdf",
+    "status": "PROCESSED",
+    "parse_cache_hit": false,
+    "text_chunks": 2,
+    "multimodal_items": 0,
+    "error": null,
+    "last_ingested_at": "2026-03-06T19:56:09"
+  },
+  "doc-pre-20260306_195609_733772_deepwiki_handoff_latest_flow.png": {
+    "doc_id": "doc-pre-20260306_195609_733772_deepwiki_handoff_latest_flow.png",
+    "file_path": "C:\\Udemy\\agno_rag\\data\\ui_uploads\\20260306_195609_733772_deepwiki_handoff_latest_flow.png",
+    "original_name": "deepwiki_handoff_latest_flow.png",
+    "status": "FAILED",
+    "parse_cache_hit": false,
+    "text_chunks": 0,
+    "multimodal_items": 0,
+    "error": "MineruParser.parse_image() takes from 2 to 4 positional arguments but 7 were given",
+    "last_ingested_at": "2026-03-06T19:56:09"
+  }
+}
